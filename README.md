@@ -1,2 +1,2 @@
-# elastic-job
-Elastic-job transfer to new repository: https://github.com/elasticjob
+# Elastic-Job
+Elastic-Job transfer to new repository: https://github.com/elasticjob
